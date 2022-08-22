@@ -1,0 +1,15 @@
+C:\Users\PERSONAL\Downloads\pizzas\bin\Debug\net6.0\pizzas.exe
+C:\Users\PERSONAL\Downloads\pizzas\bin\Debug\net6.0\pizzas.deps.json
+C:\Users\PERSONAL\Downloads\pizzas\bin\Debug\net6.0\pizzas.runtimeconfig.json
+C:\Users\PERSONAL\Downloads\pizzas\bin\Debug\net6.0\pizzas.dll
+C:\Users\PERSONAL\Downloads\pizzas\bin\Debug\net6.0\pizzas.pdb
+C:\Users\PERSONAL\Downloads\pizzas\obj\Debug\net6.0\pizzas.csproj.AssemblyReference.cache
+C:\Users\PERSONAL\Downloads\pizzas\obj\Debug\net6.0\pizzas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERSONAL\Downloads\pizzas\obj\Debug\net6.0\pizzas.AssemblyInfoInputs.cache
+C:\Users\PERSONAL\Downloads\pizzas\obj\Debug\net6.0\pizzas.AssemblyInfo.cs
+C:\Users\PERSONAL\Downloads\pizzas\obj\Debug\net6.0\pizzas.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Downloads\pizzas\obj\Debug\net6.0\pizzas.dll
+C:\Users\PERSONAL\Downloads\pizzas\obj\Debug\net6.0\refint\pizzas.dll
+C:\Users\PERSONAL\Downloads\pizzas\obj\Debug\net6.0\pizzas.pdb
+C:\Users\PERSONAL\Downloads\pizzas\obj\Debug\net6.0\pizzas.genruntimeconfig.cache
+C:\Users\PERSONAL\Downloads\pizzas\obj\Debug\net6.0\ref\pizzas.dll
