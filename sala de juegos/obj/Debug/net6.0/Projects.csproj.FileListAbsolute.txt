@@ -1,0 +1,15 @@
+C:\Users\juane\Desktop\Projects\bin\Debug\net6.0\Projects.exe
+C:\Users\juane\Desktop\Projects\bin\Debug\net6.0\Projects.deps.json
+C:\Users\juane\Desktop\Projects\bin\Debug\net6.0\Projects.runtimeconfig.json
+C:\Users\juane\Desktop\Projects\bin\Debug\net6.0\Projects.dll
+C:\Users\juane\Desktop\Projects\bin\Debug\net6.0\Projects.pdb
+C:\Users\juane\Desktop\Projects\obj\Debug\net6.0\Projects.csproj.AssemblyReference.cache
+C:\Users\juane\Desktop\Projects\obj\Debug\net6.0\Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juane\Desktop\Projects\obj\Debug\net6.0\Projects.AssemblyInfoInputs.cache
+C:\Users\juane\Desktop\Projects\obj\Debug\net6.0\Projects.AssemblyInfo.cs
+C:\Users\juane\Desktop\Projects\obj\Debug\net6.0\Projects.csproj.CoreCompileInputs.cache
+C:\Users\juane\Desktop\Projects\obj\Debug\net6.0\Projects.dll
+C:\Users\juane\Desktop\Projects\obj\Debug\net6.0\refint\Projects.dll
+C:\Users\juane\Desktop\Projects\obj\Debug\net6.0\Projects.pdb
+C:\Users\juane\Desktop\Projects\obj\Debug\net6.0\Projects.genruntimeconfig.cache
+C:\Users\juane\Desktop\Projects\obj\Debug\net6.0\ref\Projects.dll
